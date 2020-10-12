@@ -16,3 +16,8 @@
    1. Atom
    1. Brackets
    1. Sublime Text
+
+### IDE (Integrated Development Environment)
+
+
+#### > A suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
