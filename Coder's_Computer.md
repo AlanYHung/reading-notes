@@ -29,11 +29,21 @@
 * echo - a command which is used to display messages
 * pwd (Print Working Directory) - tells you what your current or present working directory you are currently in
 * ls (list) - shows you all the items in your current directory
+  * -a - List the contents of a directory, including hidden files
 * cd (change directory) - allows you to change the directory you are in.
   * ~ (home)
   * . (dot / current directory)
   * .. (dotdot / parent directory)
+* file - obtain information about what type of file a file or directory is
 
+### Files
+
+#### Important Concepts
+1. Everything is a file under Linux
+   * Even directories.
+1. Linux is an extensionless system
+   * Files can have any extension they like or none at all.
+1. Linux is case sensitive
 
 ### References
 [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)  
