@@ -1,2 +1,2 @@
 # Reading Notes for Codefellows!
-[Github Profile] (https://github.com/AlanYHung)
+https://github.com/AlanYHung
