@@ -13,8 +13,3 @@
 * Need to be willing to learn new variations of methods/skills you may already know in order to approach problems from new angles.
 * Be proactive in self-learning such as searching for solutions to problems that you are encountering in a Web Browser
 * Think of skills that you may need to acquire for future projects
-
-
-
-> Test 1 \n
-> Test 2
