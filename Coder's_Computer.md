@@ -21,3 +21,9 @@
 
 
 > A suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
+
+
+
+
+### References
+[Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
