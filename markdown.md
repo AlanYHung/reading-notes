@@ -5,3 +5,4 @@
 
 ### What are some examples of Markdowns?
 * Text Manipulation with \*, such as enclosing text in 2 asterisks will make it bold
+* Text Size Manipulation via \#, such as preceding any text with 1-6 Hashtags will determine the size it displays on your page.  1 being largest and 6 smallest.
