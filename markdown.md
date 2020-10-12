@@ -12,4 +12,4 @@
 * [Mastering Markdowns](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-[<-- Back](reading-notes.md)
+[<-- Back](README.md)
