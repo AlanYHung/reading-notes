@@ -17,13 +17,12 @@
    1. Brackets
    1. Sublime Text
 
-### IDE (Integrated Development Environment)
-
-
+### IDE (Integrated Development Environment)  
 > A suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
 
 
-
+### Command Line  
+> A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
 ### References
 [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)  
