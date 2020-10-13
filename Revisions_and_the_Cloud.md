@@ -45,5 +45,8 @@ https://git-scm.com/downloads/guis
 1. git stash apply (Applies Stash changes)
 1. git remote
 1. git remote -v (To view all remote URLs)
+
+### Resources
+* [Git Introduction Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
   
 [<-- Back](README.md)
