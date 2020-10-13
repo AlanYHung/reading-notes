@@ -3,19 +3,12 @@
 
 ### **Table of Contents**  
 
-#### **Profile**
+#### **Introduction**
 * [Profile Page](https://github.com/AlanYHung)  
+* [Growth Mindset](Growth_Mindset.md)
 
 #### **Reading**
 * [Reading 01 - Markdown](markdown.md)
 * [Reading 02 - Coder's Computer](Coder's_Computer.md)
 * [Reading 03 - Revisions and the Cloud](Revisions_and_the_Cloud.md)
-
-
-
-### *Growth Mindset*
-
-#### What Growth Mindset means to me is having an open mind and be willing to learn new things.
-* Need to be willing to learn new variations of methods/skills you may already know in order to approach problems from new angles.
-* Be proactive in self-learning such as searching for solutions to problems that you are encountering in a Web Browser
-* Think of skills that you may need to acquire for future projects
+* [Reading 04 - Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
