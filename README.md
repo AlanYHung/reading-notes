@@ -2,9 +2,11 @@
 ##### Hi, My name is Alan Hung and this is my Github Page.
 
 ### **Table of Contents**
+#### **Profile**
 * [Profile Page](https://github.com/AlanYHung)
-* [Markdown](markdown.md)
-* [Coder's Computer](Coder's_Computer.md)
+#### **Reading**
+* [Reading 01 - Markdown](markdown.md)
+* [Reading 02 - Coder's Computer](Coder's_Computer.md)
 
 
 
