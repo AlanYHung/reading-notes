@@ -7,6 +7,7 @@
 #### **Reading**
 * [Reading 01 - Markdown](markdown.md)
 * [Reading 02 - Coder's Computer](Coder's_Computer.md)
+* [Reading 03 - Revisions and the Cloud](Revisions and the Cloud.md)
 
 
 
