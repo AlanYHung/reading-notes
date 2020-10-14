@@ -13,3 +13,5 @@
 * [Reading 03 - Revisions and the Cloud](Revisions_and_the_Cloud.md)
 * [Reading 04 - Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
 * [Reading 05 - Design Web Pages with HTML](Design_Web_Pages_with_CSS.md)
+* [Reading 06a - Dynamic_Web_Pages_with_JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
+* [Reading 06b - Computer_Architecture_and_Logic](Computer_Architecture_and_Logic.md)
