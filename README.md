@@ -12,3 +12,4 @@
 * [Reading 02 - Coder's Computer](Coder's_Computer.md)
 * [Reading 03 - Revisions and the Cloud](Revisions_and_the_Cloud.md)
 * [Reading 04 - Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
+* [Reading 05 - Design Web Pages with HTML](Design_Web_Pages_with_CSS.md)
