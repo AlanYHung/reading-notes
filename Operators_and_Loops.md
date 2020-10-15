@@ -12,7 +12,7 @@
 
 ### Logical Operator Syntax
 1. && (Logical And / Both values must be True to return True)
-1. || (Logical OR / Any Value can be True to return True)
+1. \|\| (Logical OR / Any Value can be True to return True)
 1. ! (Logical Not / Returns the opposite value)
 
 ### Loops
