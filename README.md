@@ -15,3 +15,4 @@
 * [Reading 05 - Design Web Pages with HTML](Design_Web_Pages_with_CSS.md)
 * [Reading 06a - Dynamic_Web_Pages_with_JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
 * [Reading 06b - Computer_Architecture_and_Logic](Computer_Architecture_and_Logic.md)
+* [Reading 7 - Programming with JavaScript](Programming_with_JavaScript.md)
