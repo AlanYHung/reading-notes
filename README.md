@@ -8,6 +8,7 @@
 * [Growth Mindset](Growth_Mindset.md)
 
 #### **Reading**
+##### Code 102
 * [Reading 01 - Markdown](markdown.md)
 * [Reading 02 - Coder's Computer](Coder's_Computer.md)
 * [Reading 03 - Revisions and the Cloud](Revisions_and_the_Cloud.md)
@@ -17,3 +18,20 @@
 * [Reading 06b - Computer_Architecture_and_Logic](Computer_Architecture_and_Logic.md)
 * [Reading 07 - Programming with JavaScript](Programming_with_JavaScript.md)
 * [Reading 08 - Operators_and_Loops](Operators_and_Loops.md)
+
+##### Code 201
+* [Reading 01 - ]()
+* [Reading 02 - ]()
+* [Reading 03 - ]()
+* [Reading 04 - ]()
+* [Reading 05 - ]()
+* [Reading 06 - ]()
+* [Reading 07 - ]()
+* [Reading 08 - ]()
+* [Reading 09 - ]()
+* [Reading 10 - ]()
+* [Reading 11 - ]()
+* [Reading 12 - ]()
+* [Reading 13 - ]()
+* [Reading 14 - ]()
+* [Reading 15 - ]()
