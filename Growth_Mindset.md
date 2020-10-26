@@ -1,4 +1,5 @@
-# *Growth Mindset*
+# Code 102
+## *Growth Mindset*
 
 ### What Growth Mindset means to me is having an open mind and be willing to learn new things.
 * Need to be willing to learn new variations of methods/skills you may already know in order to approach problems from new angles.

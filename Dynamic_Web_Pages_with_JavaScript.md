@@ -1,4 +1,5 @@
-# Reading 06-A
+# Code 102
+## Reading 06-A
 
 ### The ABC of Programming
 1. It is best practices to keep JavaScript codes in their own files with extension ".js"

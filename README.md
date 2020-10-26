@@ -20,7 +20,7 @@
 * [Reading 08 - Operators_and_Loops](Operators_and_Loops.md)
 
 ##### Code 201
-* [Reading 01 - ]()
+* [Reading 01 - Introductory HTML and JavaScript](class-01.md)
 * [Reading 02 - ]()
 * [Reading 03 - ]()
 * [Reading 04 - ]()

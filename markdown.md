@@ -1,4 +1,5 @@
-# **Markdowns**
+# Code 102
+## Reading 01
 
 ### What is a Markdown?
 ### A Markdown is a simplied and user friendly method to code/stylize webpages in the Github environment.

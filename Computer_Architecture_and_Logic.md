@@ -1,4 +1,5 @@
-# Reading 06-B
+# Code 102
+## Reading 06-B
 
 ### 4 Things Common to all Computers
 1. Input

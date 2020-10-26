@@ -1,4 +1,5 @@
-# Reading 08
+# Code 102
+## Reading 08
 
 ### Comparison Operator Syntax
 1. == (is equal to)

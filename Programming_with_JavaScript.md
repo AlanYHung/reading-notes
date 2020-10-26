@@ -1,4 +1,5 @@
-# Reading 07
+# Code 102
+## Reading 07
 
 ### Introduction
 #### Uses of JavaScript
