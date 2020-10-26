@@ -21,7 +21,7 @@
 
 ##### Code 201
 * [Reading 01 - Introductory HTML and JavaScript](class-01.md)
-* [Reading 02 - ]()
+* [Reading 02 - Basics of HTML, CSS & JS](class-02.md)
 * [Reading 03 - ]()
 * [Reading 04 - ]()
 * [Reading 05 - ]()
