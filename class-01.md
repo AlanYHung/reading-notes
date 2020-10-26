@@ -19,16 +19,16 @@
 
 #### Extra Markup (pp. 176-199)
 * DOCTYPES declare HTML Version to the browser
-* Text enclosed within <\!-- --\> denote comments not displayed by browser
+* Text enclosed within <\!-\- -\-\> denote comments not displayed by browser
 * id and class are attributes used to identify specific elements
-* <\div> and <\span> elements allow you to group inline/block elements together
-* <\iframes> cut your browser window into sections that present different pages
-* <\meta> describes your web page and are used by search engines to find your page
+* \<div\> and \<span\> elements allow you to group inline/block elements together
+* \<iframes\> cut your browser window into sections that present different pages
+* \<meta\> describes your web page and are used by search engines to find your page
 * Escape characters allow you to use special characters that are used by HTML Syntax such as \<\>
 
 #### HTML 5 Layout (pp. 428-451)
 * The new HTML5 elements are used to describe the purpose of each part/section of the web page
-* New Elements allow for clearer declaration of Section over multiple <\div>
+* New Elements allow for clearer declaration of Section over multiple \<div\>
 * Older Browsers cannot use HTML5
     * Javascript is needed to help Older Browser's understand HTML5
     * Free from Google
@@ -82,7 +82,7 @@
 ##### 1-C How do I write a script for a Web Page? (pp. 43-52)
 * It is best to keep JavaScript Code in it's on File
     * Javascript files are text files that use the .js extension
-* <\script> is used to tell the web page to activate JavaScript Code
+* \<script\> is used to tell the web page to activate JavaScript Code
 * JavaScript does not change the HTML Code of a web page, but instead works with the model that is created by the HTML Code.
 
 
