@@ -1,5 +1,5 @@
 # Code 201
-## Reading 02
+## Reading 03
 
 ### HTML & CSS
 #### Lists (pp. 62-73)
