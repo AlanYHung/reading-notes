@@ -9,20 +9,20 @@
 
 #### **Reading**
 ##### Code 102
-* [Reading 01 - Markdown](markdown.md)
-* [Reading 02 - Coder's Computer](Coder's_Computer.md)
-* [Reading 03 - Revisions and the Cloud](Revisions_and_the_Cloud.md)
-* [Reading 04 - Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
-* [Reading 05 - Design Web Pages with HTML](Design_Web_Pages_with_CSS.md)
-* [Reading 06a - Dynamic_Web_Pages_with_JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
-* [Reading 06b - Computer_Architecture_and_Logic](Computer_Architecture_and_Logic.md)
-* [Reading 07 - Programming with JavaScript](Programming_with_JavaScript.md)
-* [Reading 08 - Operators_and_Loops](Operators_and_Loops.md)
+* [Reading 01 - Markdown](/102d20/markdown.md)
+* [Reading 02 - Coder's Computer](/102d20/Coder's_Computer.md)
+* [Reading 03 - Revisions and the Cloud](/102d20/Revisions_and_the_Cloud.md)
+* [Reading 04 - Structure Web Pages with HTML](/102d20/Structure_Web_Pages_with_HTML.md)
+* [Reading 05 - Design Web Pages with HTML](/102d20/Design_Web_Pages_with_CSS.md)
+* [Reading 06a - Dynamic_Web_Pages_with_JavaScript](/102d20/Dynamic_Web_Pages_with_JavaScript.md)
+* [Reading 06b - Computer_Architecture_and_Logic](/102d20/Computer_Architecture_and_Logic.md)
+* [Reading 07 - Programming with JavaScript](/102d20/Programming_with_JavaScript.md)
+* [Reading 08 - Operators_and_Loops](/102d20/Operators_and_Loops.md)
 
 ##### Code 201
-* [Reading 01 - Introductory HTML and JavaScript](class-01.md)
-* [Reading 02 - Basics of HTML, CSS & JS](class-02.md)
-* [Reading 03 - ]()
+* [Reading 01 - Introductory HTML and JavaScript](/201d69/class-01.md)
+* [Reading 02 - Basics of HTML, CSS & JS](/201d69/class-02.md)
+* [Reading 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](/201d69/class-03.md)
 * [Reading 04 - ]()
 * [Reading 05 - ]()
 * [Reading 06 - ]()

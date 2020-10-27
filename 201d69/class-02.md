@@ -49,7 +49,7 @@
 * Expressions evaluate into a single value
     * Requires the use of operators for the calculation
 
-#### Decisions and Loops
+#### Decisions and Loops (pp. 145-162)
 * There are 3 concepts programmers usually rely on to determine path of script
     1. Evaluations (Determine if result matches expectations)
     1. Decisions (Use results of evaluations to determine path)
