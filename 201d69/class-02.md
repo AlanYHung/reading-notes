@@ -59,4 +59,4 @@
     1. The conditional statement used to determine path of script
         * Refer to [Code 102 - Reading 08](Operators_and_Loops.md) for operators used in conditional statements such as IF..Then..Else
 
-[<-- Back](README.md)
+[<-- Back](../README.md)

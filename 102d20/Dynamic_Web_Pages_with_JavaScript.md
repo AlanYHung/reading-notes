@@ -14,4 +14,4 @@
    * String
 1. Refer to Starter-Class Folder on local machine to see Example JavaScript usage
 
-[<-- Back](README.md)
+[<-- Back](../README.md)

@@ -22,4 +22,4 @@
 1. <\met\a> allows you to supply information about your web page
 1. Escape character allows you to display special characters part of syntax
 
-[<-- Back](README.md)
+[<-- Back](../README.md)
