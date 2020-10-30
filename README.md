@@ -24,7 +24,7 @@
 * [Reading 02 - Basics of HTML, CSS & JS](/201d69/class-02.md)
 * [Reading 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](/201d69/class-03.md)
 * [Reading 04 - HTML Links, JS Functions, and Intro to CSS Layout](/201d69/class-04.md)
-* [Reading 05 - ]()
+* [Reading 05 - HTML Images; CSS Color & Text](/201d69/class-05.md)
 * [Reading 06 - ]()
 * [Reading 07 - ]()
 * [Reading 08 - ]()
