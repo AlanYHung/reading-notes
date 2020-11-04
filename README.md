@@ -27,7 +27,7 @@
 * [Reading 05 - HTML Images; CSS Color & Text](/201d69/class-05.md)
 * [Reading 06 - Problem Domain, Objects, and the DOM](/201d69/class-06.md)
 * [Reading 07 - Object-Oriented Programming, HTML Tables](/201d69/class-07.md)
-* [Reading 08 - ]()
+* [Reading 08 - CSS Layout](/201d69/class-08.md)
 * [Reading 09 - ]()
 * [Reading 10 - ]()
 * [Reading 11 - ]()
