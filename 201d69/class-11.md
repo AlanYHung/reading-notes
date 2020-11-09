@@ -36,6 +36,7 @@
     1. HTMLMediaElement.pause()
     1. \<audio\>
     1. \<video\>
+
     ```
     ======================================================================================================================
     Sample HTML Code | https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs   
