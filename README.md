@@ -30,7 +30,7 @@
 * [Reading 08 - CSS Layout](/201d69/class-08.md)
 * [Reading 09 - Forms and js Events](/201d69/class-09.md)
 * [Reading 10 - Debugging](/201d69/class-10.md)
-* [Reading 11 - ]()
+* [Reading 11 - Audio, Video, Images](/201d69/class-10.md)
 * [Reading 12 - ]()
 * [Reading 13 - ]()
 * [Reading 14 - ]()
