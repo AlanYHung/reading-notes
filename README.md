@@ -33,5 +33,6 @@
 * [Reading 11 - Audio, Video, Images](/201d69/class-11.md)
 * [Reading 12 - Chart.js, Canvas](/201d69/class-12.md)
 * [Reading 13 - Local Storage](/201d69/class-13.md)
-* [Reading 14 - ]()
+* [Reading 14a - CSS Transforms, Transitions, and Animations](/201d69/class-14-a.md)
+* [Reading 14b - What Google learned about Teams](/201d69/class-14-b.md)
 * [Reading 15 - ]()
