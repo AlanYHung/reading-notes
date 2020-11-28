@@ -1,5 +1,6 @@
 # Reading Notes for Codefellows!
 ##### Hi, My name is Alan Hung and this is my Github Page.
+##### This Page is where I record and store all my Code Fellows Reading Assignment Notes.
 
 ### **Table of Contents**  
 
@@ -8,7 +9,7 @@
 * [Growth Mindset](Growth_Mindset.md)
 
 #### **Reading**
-##### Code 102
+##### Code 102 - Intro to Software Development
 * [Reading 01 - Markdown](/102d20/markdown.md)
 * [Reading 02 - Coder's Computer](/102d20/Coder's_Computer.md)
 * [Reading 03 - Revisions and the Cloud](/102d20/Revisions_and_the_Cloud.md)
@@ -19,7 +20,7 @@
 * [Reading 07 - Programming with JavaScript](/102d20/Programming_with_JavaScript.md)
 * [Reading 08 - Operators_and_Loops](/102d20/Operators_and_Loops.md)
 
-##### Code 201
+##### Code 201 - Foundations of Software Development
 * [Reading 01 - Introductory HTML and JavaScript](/201d69/class-01.md)
 * [Reading 02 - Basics of HTML, CSS & JS](/201d69/class-02.md)
 * [Reading 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](/201d69/class-03.md)
@@ -35,4 +36,22 @@
 * [Reading 13 - Local Storage](/201d69/class-13.md)
 * [Reading 14a - CSS Transforms, Transitions, and Animations](/201d69/class-14-a.md)
 * [Reading 14b - What Google learned about Teams](/201d69/class-14-b.md)
+
+##### Code 301 - Intermediate Software Development
+* [Reading 01 - Responsive Web Design and Floats](/301d69/class03-read01.md)
+* [Reading 02 - ]()
+* [Reading 03 - ]()
+* [Reading 04 - ]()
+* [Reading 05 - ]()
+* [Reading 06 - ]()
+* [Reading 07 - ]()
+* [Reading 08 - ]()
+* [Reading 09 - ]()
+* [Reading 10 - ]()
+* [Reading 11 - ]()
+* [Reading 12 - ]()
+* [Reading 13 - ]()
+* [Reading 14 - ]()
 * [Reading 15 - ]()
+
+##### Code 401 - Advanced Software Development
