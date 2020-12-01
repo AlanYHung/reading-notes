@@ -39,7 +39,7 @@
 
 ##### Code 301 - Intermediate Software Development
 * [Reading 01 - Responsive Web Design and Floats](/301d69/class03-read01.md)
-* [Reading 02 - ]()
+* [Reading 02 - Pair Programming](/301d69/class03-read02.md)
 * [Reading 03 - ]()
 * [Reading 04 - ]()
 * [Reading 05 - ]()
