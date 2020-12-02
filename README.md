@@ -38,9 +38,9 @@
 * [Reading 14b - What Google learned about Teams](/201d69/class-14-b.md)
 
 ##### Code 301 - Intermediate Software Development
-* [Reading 01 - Responsive Web Design and Floats](/301d69/class03-read01.md)
-* [Reading 02 - Pair Programming](/301d69/class03-read02.md)
-* [Reading 03 - ]()
+* [Reading 01 - Responsive Web Design and Floats](/301d69/code03-read01.md)
+* [Reading 02 - Pair Programming](/301d69/code03-read02.md)
+* [Reading 03 - Mustache and Flexbox](/301d69/code03-read03.md)
 * [Reading 04 - ]()
 * [Reading 05 - ]()
 * [Reading 06 - ]()
