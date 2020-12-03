@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 12
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 [Article on Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 * You can create animated charts with Chart.js

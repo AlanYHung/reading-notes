@@ -1,5 +1,6 @@
 # Code 301
 ## Reading 02
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 
 [Javascript Templating Language and Engine— Mustache.js with Node and Express](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)

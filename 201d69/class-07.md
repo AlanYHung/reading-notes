@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 07
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 ### Domain Modeling
 [Domain Modeling Reading Resource](https://github.com/codefellows/domain_modeling#domain-modeling)

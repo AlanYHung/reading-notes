@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 10
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 ### JavaScript & JQuery
 #### Error Handling & Debugging (pp. 449-486)

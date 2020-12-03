@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 11
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 ### HTML & CSS
 #### Images (pp. 406-427)

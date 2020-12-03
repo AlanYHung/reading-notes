@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 08
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 ### HTML & CSS
 #### Layout (pp. 358-404)

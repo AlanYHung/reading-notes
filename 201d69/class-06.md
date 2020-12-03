@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 06
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 ### JavaScript & JQuery
 #### Object Literals (pp. 100-105)

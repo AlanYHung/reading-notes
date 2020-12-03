@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 09
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 ### HTML & CSS
 #### Forms (pp. 144-175)

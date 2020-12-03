@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 02
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 ### HTML & CSS
 #### Text (pp. 40-61)

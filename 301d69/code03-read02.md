@@ -1,5 +1,6 @@
 # Code 301
 ## Reading 02
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 
 ### JavaScript & JQuery

@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 14a
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 * New CSS3 Element for positioning and altering elements

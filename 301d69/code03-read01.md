@@ -1,5 +1,6 @@
 # Code 301
 ## Reading 01
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 
 [Responsive Web Design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)

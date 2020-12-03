@@ -1,5 +1,6 @@
 # Code 201
 ## Reading 13
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 [Local Storage](http://diveinto.html5doctor.com/storage.html)
 * In the past, Local Storage did not exist for Browsers
