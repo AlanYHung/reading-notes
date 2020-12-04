@@ -42,7 +42,7 @@
 * [Reading 02 - Pair Programming](/301d69/code03-read02.md)
 * [Reading 03 - Mustache and Flexbox](/301d69/code03-read03.md)
 * [Reading 04 - CSS Grid](/301d69/code03-read04.md)
-* [Reading 05 - ]()
+* [Reading 05 - HEROKU](/301d69/code03-read04.md)
 * [Reading 06 - ]()
 * [Reading 07 - ]()
 * [Reading 08 - ]()
