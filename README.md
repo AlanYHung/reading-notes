@@ -44,7 +44,7 @@
 * [Reading 04 - CSS Grid](/301d69/code03-read04.md)
 * [Reading 05 - Heroku](/301d69/code03-read05.md)
 * [Reading 06 - Node.js](/301d69/code03-read06.md)
-* [Reading 07 - ]()
+* [Reading 07 - REST](/301d69/code03-read07.md)
 * [Reading 08 - ]()
 * [Reading 09 - ]()
 * [Reading 10 - ]()
