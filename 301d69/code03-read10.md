@@ -48,6 +48,10 @@
   * Try and Catch are methods designed to try to handle errors
 
 
+  ### Additional SQL Resources
+  * [JavaScript errors reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+
+
 
 
 [<-- Back](../README.md)
