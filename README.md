@@ -49,7 +49,7 @@
 * [Reading 09 - Functional Programming](/301d69/code03-read09.md)
 * [Reading 10 - The Call Stack](/301d69/code03-read10.md)
 * [Reading 11 - EJS](/301d69/code03-read11.md)
-* [Reading 12 - ]()
+* [Reading 12 - EJS Partials](/301d69/code03-read12.md)
 * [Reading 13 - ]()
 * [Reading 14 - ]()
 * [Reading 15 - ]()
