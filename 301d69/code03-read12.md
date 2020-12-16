@@ -8,7 +8,7 @@
 [Article Source](https://medium.com/@henslejoseph/ejs-partials-f6f102cb7433)
 * Partials are ejs files that allow you to reuse HTML across multiple files
 * Partials are good for static views such as nav bars, headers, and footers
-* Use \<%- include('\<path\>\<filename without extension\>') \%> to link your partials in your other files
+* Use \<%- include('\<path\>\<filename without extension\>') %> to link your partials in your other files
 
 
 ### Watch EJS tutorial from WalkThroughCode on YouTube, Videos 1-5
