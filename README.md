@@ -51,7 +51,7 @@
 * [Reading 11 - EJS](/301d69/code03-read11.md)
 * [Reading 12 - EJS Partials](/301d69/code03-read12.md)
 * [Reading 13 - Sending Form Data](/301d69/code03-read13.md)
-* [Reading 14 - ]()
+* [Reading 14 - Database Normalization](/301d69/code03-read14.md)
 * [Reading 15 - ]()
 
 ##### Code 401 - Advanced Software Development
