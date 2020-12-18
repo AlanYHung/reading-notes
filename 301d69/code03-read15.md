@@ -14,7 +14,7 @@
 ### Diversity in Tech
 #### Author:  David McCandless, Fabio Bergamaschi, Miriam Quick, Stepanie Tomasevic
 [Article Source](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
-* Based on charts it looks like the tech industry is dominated by Males and Asians
+* Based on charts it looks like the tech industry is dominated by White Males
 
 
 ### Why diversity matters to your tech company
