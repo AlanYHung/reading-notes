@@ -10,6 +10,7 @@
 #### Author:  Microsoft Docs
 [Article Source](https://docs.microsoft.com/en-us/dotnet/standard/io/)
 > File and stream I/O (input/output) refers to the transfer of data either to or from a storage medium.
+
 * System.IO namespace in C# enables reading and writing to datastreams and files.
 * Commonly used file and directory classes:
   * File
@@ -60,6 +61,7 @@
   * File
   * Path
 > Example: Synchronously write text with StreamWriter
+
 ```
 using System;
 using System.IO;
@@ -89,7 +91,9 @@ class Program
 // Second line
 // Third line
 ```
+
 > Example: Synchronously append text with StreamWriter
+
 ```
 using System;
 using System.IO;
@@ -112,7 +116,9 @@ class Program
 // The example adds the following line to the contents of "WriteLines.txt":
 // Fourth Line
 ```
+
 > Example: Asynchronously write text with StreamWriter
+
 ```
 using System;
 using System.IO;
@@ -135,7 +141,9 @@ class Program
 // The example creates a file named "WriteTextAsync.txt" with the following contents:
 // This is a sentence.
 ```
+
 > Example: Write and append text with the File class
+
 ```
 using System;
 using System.IO;
@@ -175,6 +183,7 @@ class Program
 [Article Source](https://docs.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-newly-created-data-file)
 * BinaryWriter and BinaryReader are used for writing data that is not character strings.
 > The following example shows how to create an empty file stream, write data to it, and read data from it.
+
 ```
 using System;
 using System.IO;
