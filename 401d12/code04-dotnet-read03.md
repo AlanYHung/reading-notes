@@ -60,6 +60,7 @@
   * StreamWriter
   * File
   * Path
+
 > Example: Synchronously write text with StreamWriter
 
 ```
@@ -182,6 +183,7 @@ class Program
 #### Author:  Microsoft Docs
 [Article Source](https://docs.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-newly-created-data-file)
 * BinaryWriter and BinaryReader are used for writing data that is not character strings.
+
 > The following example shows how to create an empty file stream, write data to it, and read data from it.
 
 ```
