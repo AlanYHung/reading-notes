@@ -54,4 +54,19 @@
 * [Reading 14 - Database Normalization](/301d69/code03-read14.md)
 * [Reading 15 - Diversity and Inclusion](/301d69/code03-read15.md)
 
-##### Code 401 - Advanced Software Development
+##### Code 401 - Advanced Software Development in ASP.NET Core
+* [Reading 01 - ](/401d12/code04-dotnet-read.md)
+* [Reading 02 - ](/401d12/code04-dotnet-read.md)
+* [Reading 03 - System.IO](/401d12/code04-dotnet-read03.md)
+* [Reading 04 - ](/401d12/code04-dotnet-read.md)
+* [Reading 05 - ](/401d12/code04-dotnet-read.md)
+* [Reading 06 - ](/401d12/code04-dotnet-read.md)
+* [Reading 07 - ](/401d12/code04-dotnet-read.md)
+* [Reading 08 - ](/401d12/code04-dotnet-read.md)
+* [Reading 09 - ](/401d12/code04-dotnet-read.md)
+* [Reading 10 - ](/401d12/code04-dotnet-read.md)
+* [Reading 11 - ](/401d12/code04-dotnet-read.md)
+* [Reading 12 - ](/401d12/code04-dotnet-read.md)
+* [Reading 13 - ](/401d12/code04-dotnet-read.md)
+* [Reading 14 - ](/401d12/code04-dotnet-read.md)
+* [Reading 15 - ](/401d12/code04-dotnet-read.md)
