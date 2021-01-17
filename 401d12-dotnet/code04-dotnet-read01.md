@@ -1,5 +1,6 @@
 # Code 401
 ## Reading 01
+##### (All My Notes are attributed/sourced from the Resources directly preceding them.)
 
 <br>
 <br>
