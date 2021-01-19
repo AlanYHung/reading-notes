@@ -62,7 +62,7 @@
 * [Reading 05 - Linked Lists](/401d12-dotnet/code04-dotnet-read05.md)
 * [Reading 06 - OOP Principles](/401d12-dotnet/code04-dotnet-read06.md)
 * [Reading 07 - Interfaces](/401d12-dotnet/code04-dotnet-read07.md)
-* [Reading 08 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 08 - Collections & Enums](/401d12-dotnet/code04-dotnet-read08.md)
 * [Reading 09 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 10 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 11 - ](/401d12-dotnet/code04-dotnet-read.md)
