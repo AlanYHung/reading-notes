@@ -64,7 +64,7 @@
 * [Reading 07 - Interfaces](/401d12-dotnet/code04-dotnet-read07.md)
 * [Reading 08 - Collections & Enums](/401d12-dotnet/code04-dotnet-read08.md)
 * [Reading 09 - LINQ & Delegates](/401d12-dotnet/code04-dotnet-read09.md)
-* [Reading 10 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 10 - Stacks and Queues](/401d12-dotnet/code04-dotnet-read10.md)
 * [Reading 11 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 12 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 13 - ](/401d12-dotnet/code04-dotnet-read.md)
