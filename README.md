@@ -65,7 +65,7 @@
 * [Reading 08 - Collections & Enums](/401d12-dotnet/code04-dotnet-read08.md)
 * [Reading 09 - LINQ & Delegates](/401d12-dotnet/code04-dotnet-read09.md)
 * [Reading 10 - Stacks and Queues](/401d12-dotnet/code04-dotnet-read10.md)
-* [Reading 11 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 11 - Intro to ERD (Entity Relationship Diagram)](/401d12-dotnet/code04-dotnet-read11.md)
 * [Reading 12 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 13 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 14 - ](/401d12-dotnet/code04-dotnet-read.md)
