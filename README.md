@@ -68,7 +68,7 @@
 * [Reading 11 - Intro to ERD (Entity Relationship Diagram)](/401d12-dotnet/code04-dotnet-read11.md)
 * [Reading 12 - EF Core & APIs](/401d12-dotnet/code04-dotnet-read12.md)
 * [Reading 13 - Dependency Injection & Repository Design PAttern](/401d12-dotnet/code04-dotnet-read13.md)
-* [Reading 14 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 14 - DB Seeding and Intro to APIs](/401d12-dotnet/code04-dotnet-read14.md)
 * [Reading 16 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 17 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 18 - ](/401d12-dotnet/code04-dotnet-read.md)
