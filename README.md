@@ -74,7 +74,7 @@
 * [Reading 17 - Razor Pages](/401d12-dotnet/code04-dotnet-read17.md)
 * [Reading 18 - Identity](/401d12-dotnet/code04-dotnet-read18.md)
 * [Reading 19 - Claims and JWT tokens](/401d12-dotnet/code04-dotnet-read19.md)
-* [Reading 20 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 20 - MVC](/401d12-dotnet/code04-dotnet-read20.md)
 * [Reading 21 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 22 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 23 - ](/401d12-dotnet/code04-dotnet-read.md)
