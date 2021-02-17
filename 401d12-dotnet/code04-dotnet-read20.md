@@ -24,22 +24,22 @@
 
 ### Resources
 * #### __Learn Basics Of MVC Architecture__
-  * ##### Padmalatha Dronamraju
+  * ##### Author:  Padmalatha Dronamraju
   * ##### [Article Source](https://www.c-sharpcorner.com/article/learn-basics-of-mvc-architecture/)
 
 ### Resources
 * #### __Tag Helpers in ASP.NET Core__
-  * ##### Rick Anderson
+  * ##### Author:  Rick Anderson
   * ##### [Article Source](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-2.1)
 
 ### Resources
 * #### __Bootstrap__
-  * ##### Bootstrap Docs
+  * ##### Author:  Bootstrap Docs
   * ##### [Article Source](https://getbootstrap.com/)
 
 ### Resources
 * #### __Learn Bootstrap 4 for free__
-  * ##### Scrimba
+  * ##### Author:  Scrimba
   * ##### [Article Source](https://scrimba.com/learn/bootstrap4)
 
 <br>

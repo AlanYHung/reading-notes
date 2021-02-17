@@ -23,7 +23,7 @@
 
 ### Resources
 * #### __ASP.NET Core 2.0 Authentication and Authorization System Demystified__
-  * ##### Free-time Programmer
+  * ##### Author:  Free-time Programmer
   * ##### [Article Source](https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html)
 
 <br>

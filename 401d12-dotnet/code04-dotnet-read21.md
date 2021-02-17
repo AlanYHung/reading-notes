@@ -20,12 +20,12 @@
 
 ### Resources
 * #### __Introduction to Authentication with ASP.NET Core__
-  * ##### Andrew Lock
+  * ##### Author:  Andrew Lock
   * ##### [Article Source](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 
 ### Resources
 * #### __Part 2: JWT to authenticate Servers API’s__
-  * ##### Rachit Gulati
+  * ##### Author:  Rachit Gulati
   * ##### [Article Source](https://codeburst.io/jwt-to-authenticate-servers-apis-c6e179aa8c4e)
 
 <br>
