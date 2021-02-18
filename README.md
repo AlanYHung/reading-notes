@@ -77,7 +77,7 @@
 * [Reading 20 - MVC](/401d12-dotnet/code04-dotnet-read20.md)
 * [Reading 21 - Cookies](/401d12-dotnet/code04-dotnet-read21.md)
 * [Reading 22 - MVC Forms](/401d12-dotnet/code04-dotnet-read22.md)
-* [Reading 23 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 23 - Azure Blob](/401d12-dotnet/code04-dotnet-read23.md)
 * [Reading 24 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 25 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 26 - ](/401d12-dotnet/code04-dotnet-read.md)
