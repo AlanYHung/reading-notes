@@ -18,7 +18,6 @@
   * ##### Author:  Microsoft Docs
   * ##### [Article Source](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin)
 
-### Resources
 * #### __Learn Xamarin__
   * ##### Author:  Microsoft Docs
   * ##### [Article Source](https://dotnet.microsoft.com/learn/xamarin)

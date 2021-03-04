@@ -19,7 +19,6 @@
   * ##### Author:  C# Corner
   * ##### [Article Source](https://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/)
 
-### Resources
 * #### __Xamarin.Forms Local Databases__
   * ##### Author:  Microsoft Docs
   * ##### [Article Source](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/data/databases)

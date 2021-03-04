@@ -85,7 +85,7 @@
 * [Reading 28 - Graphs](/401d12-dotnet/code04-dotnet-read28.md)
 * [Reading 29 - Xamarin](/401d12-dotnet/code04-dotnet-read29.md)
 * [Reading 30 - Xamarin Data Services](/401d12-dotnet/code04-dotnet-read30.md)
-* [Reading 31 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 31 - Xamarin: Device Features](/401d12-dotnet/code04-dotnet-read31.md)
 * [Reading 32 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 33 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 34 - ](/401d12-dotnet/code04-dotnet-read.md)
