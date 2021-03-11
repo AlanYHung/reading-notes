@@ -86,6 +86,6 @@
 * [Reading 29 - Xamarin](/401d12-dotnet/code04-dotnet-read29.md)
 * [Reading 30 - Xamarin Data Services](/401d12-dotnet/code04-dotnet-read30.md)
 * [Reading 31 - Xamarin: Device Features](/401d12-dotnet/code04-dotnet-read31.md)
-* [Reading 32 - ](/401d12-dotnet/code04-dotnet-read.md)
+* [Reading 32 - Ethics in Tech](/401d12-dotnet/code04-dotnet-read32.md)
 * [Reading 33 - ](/401d12-dotnet/code04-dotnet-read.md)
 * [Reading 34 - ](/401d12-dotnet/code04-dotnet-read.md)
