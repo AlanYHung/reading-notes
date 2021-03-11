@@ -8,19 +8,28 @@
 
 ### Summary
 
-```
+<br>
+<br>
+
+<article>
+<h1>
 Ethics in the Workplace
-Project Dragonfly, Google’s censored search engine
+<p><small>Project Dragonfly, Google’s censored search engine</small></p>
+</h1>
 
 While I do believe it is good to have an employee committee review all projects their companies get involved with, I am not sure if I agree with this topic in particular.  Given that Google is an American based company, I do not believe that citizens of another country should have the right to judge another society based on their cultural and personal values.  There are many past examples as to why this is bad for another country, and can cause lasting problems for the country and it's evolution.  China is already a good example of this.  The current state of the country and their isolationism can be related to past events such as Japan's invasion during WWII or even furthur back to the Sphere's of Influence by European powers during the Colonial Era.  While I understand the ethical implications of developing a censored search engine for China's government, I do not believe it is right for Google or it's employees to refuse to work with China or even not follow China's directives when developing for their country.  Not following China's directives could cause a bloody revolution or civil war with the blood of millions on the hands of said company and it's employees.  It is fine to hope for the best possible outcome when giving others access to information, but it is not possible to control how they interpret or use that information.  On the offset, if you work with China's government and follow it's directives, there is a path to slowly build trust with the country and in best case scenario, influence the evolution of the country on a more positive path.  I personally feel this is the best answer.
-```
+</article>
 
-```
+<br>
+
+<article>
+<h1>
 Ethics in Technology
-Will Democracy Survive Big Data and Artificial Intelligence?
+<p><small>Will Democracy Survive Big Data and Artificial Intelligence?</small></p>
+</h1>
 
 Given the drive in the world to make money, more data on each individual means more revenue for companies in terms of marketing strategy.  However, as more and more of our personal data is stored away, the variety of ways it is used also increases.  Currently, this information is already being used to track how we live our lives, where we go, where we live, etc.  Agencies like immigration and police departments are trying to use this data and AI to help make their jobs easier.  However, all this data invades the privacy of each individual and incorrect use/abuse of this data increases.  This is the danger that we face in the future as a society.  Without heavy regulation, this could seriously hamper an individual's freedom in the future.
-```
+</article>
 
 <br>
 <br>
